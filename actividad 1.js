@@ -8,7 +8,11 @@ console.log(total)
 VM1691:2 4
 
 // problema 2:
-
+let numero1=prompt("ingrese un numero");
+let numero2=prompt("ingrese el segundo numero");
+var total=numero1-numero2
+console.log(total)
+VM618:4 -2
 // problema 3:
 const radio=5.3*5.3
 var pi=3.1416
