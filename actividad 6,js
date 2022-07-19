@@ -1,0 +1,31 @@
+//problema 1
+var animals=['eagle','parrot','monkey','boar','lion'];
+var comingSoonAnimals=['panter','dragon','turtle'];
+var listaDeAnimales=animals.concat(comingSoonAnimals);
+listaDeAnimales;
+//problema 2
+var arr=[4,6,1,0,8,2,45,11,5,33,50,101]
+[4,6,1,0,8,2,45,11,5,33,50,101].sort(function(a,b){return a-b});
+//problema 3
+var animals=['eagle','parrot','monkey','boar','lion'];
+var comingSoonAnimals=['panter','dragon','turtle'];
+var listaDeAnimales=animals.concat(comingSoonAnimals);
+listaDeAnimales;
+listaDeAnimales.push('cow');
+listaDeAnimales;
+//problema 4
+var animals=['eagle','parrot','monkey','boar','lion'];
+var comingSoonAnimals=['panter','dragon','turtle'];
+var listaDeAnimales=animals.concat(comingSoonAnimals);
+listaDeAnimales;
+listaDeAnimales.push('cow');
+listaDeAnimales;
+listaDeAnimales.shift('eagle');
+listaDeAnimales;
+//problema 5
+var animals=['eagle','parrot','monkey','boar','lion'];
+let index=animals.indexOf('parrot');
+console.log(index)
+
+
+

@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+.container{
+    justify-content: center;
+}
+.thumb{
+    width: 25px;
+    height: 25px;
+}
